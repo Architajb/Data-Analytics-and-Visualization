@@ -1,72 +1,41 @@
-\# Experiment 04: Reading and Processing Data from Various Sources Using Pandas
+# Reading Data from Text Files, Excel, and Web Sources
 
+## Objective
+Read, process, and manage data from multiple sources including CSV files, Excel spreadsheets, and web-based datasets using Pandas.
 
+## Description
+This experiment demonstrates how to import data from different formats, handle missing values, and save processed data for future analysis.
 
-\## Aim
+## Topics Covered
 
+- Reading CSV files
+- Reading Excel worksheets
+- Accessing web-based datasets
+- Data inspection
+- Handling missing values
+- Data preprocessing
+- Exporting processed datasets
 
+## Data Sources
 
-To read and process data from various sources, including CSV files, Excel spreadsheets, and web-based data sources, using Python's Pandas library.
+- Text/CSV Files
+- Excel Files
+- Web-Based Datasets
 
+## Tools and Libraries
 
+- Python 3.13.2
+- Jupyter Notebook 7.3.2
+- Pandas
 
-\## Software Requirements
+## Learning Outcomes
 
+- Import data from multiple formats.
+- Process and clean imported datasets.
+- Handle missing values effectively.
+- Export processed data to new files.
+- Work with external web-based data sources.
 
+## Result
 
-\- Python: 3.13.2
-
-\- Jupyter Notebook: 7.3.2
-
-
-
-\## Theory
-
-
-
-\### Python
-
-Python is an interpreted, high-level, general-purpose programming language with simple syntax and dynamic semantics.
-
-
-
-\### Jupyter Notebook
-
-Jupyter Notebook is an interactive environment that allows users to write, execute, and analyze Python code.
-
-
-
-\### Pandas
-
-Pandas is a powerful Python library used for data manipulation and analysis. It provides DataFrame and Series data structures for handling structured data efficiently.
-
-
-
-Pandas supports reading data from multiple sources such as:
-
-
-
-\- CSV files
-
-\- Text files
-
-\- Excel spreadsheets
-
-\- Web-based data sources such as JSON and HTML
-
-
-
-This experiment demonstrates reading, processing, handling missing values, and saving data using Pandas.
-
-
-
-\## Datasets Used
-
-
-
-\### 1. Google Play Store Dataset
-
-
-
-File Name:
-
+The experiment successfully demonstrated reading and processing data from text files, Excel spreadsheets, and web sources using Pandas.
